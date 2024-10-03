@@ -18,5 +18,4 @@ export class CategoryBarComponent {
   {id: 4, title: 'Category 4', image: 'https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-1100x628.jpg'},
   {id: 5, title: 'Category 5', image: 'https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-1100x628.jpg'},
   ]
-
 }

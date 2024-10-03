@@ -1,6 +1,6 @@
 .menuexpansivel
 {
-  position: fixed;
+  position: absolute;
   width: 256px;
 }
 .menubackground{
